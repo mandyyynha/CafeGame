@@ -1,0 +1,4 @@
+repository "CafeGame@MandyRoxin@cloud"
+  path "/"
+    br "/main"
+    co "/main"
